@@ -1,0 +1,7 @@
+[
+  { "id": "TX-101", "amount": 150.00, "currency": "USD", "status": "completed" },
+  { "id": "TX-102", "amount": 2300.50, "currency": "USD", "status": "PENDING" },
+  { "id": "TX-103", "amount": 80.00, "currency": "EUR", "status": "failed" },
+  { "id": "TX-104", "amount": 15000.00, "currency": "USD", "status": "completed" },
+  { "id": "TX-105", "amount": -20.00, "currency": "USD", "status": "error" }
+]
